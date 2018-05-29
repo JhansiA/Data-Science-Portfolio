@@ -36,14 +36,10 @@ obtained :
 - driver_imgs_list.csv - a list of training images, their subject (driver) id,
 and class id
 
-https://www.kaggle.com/c/state-farm-distracted-driver-detection/download/
-driver_imgs_list.csv.zip
+https://www.kaggle.com/c/state-farm-distracted-driver-detection/download/driver_imgs_list.csv.zip
+https://www.kaggle.com/c/state-farm-distracted-driver-detection/download/imgs.zip     
+https://www.kaggle.com/c/state-farm-distracted-driver-detection/download/sample_submission.csv.zip
 
-https://www.kaggle.com/c/state-farm-distracted-driver-detection/download/
-imgs.zip     
-
-https://www.kaggle.com/c/state-farm-distracted-driver-detection/download/
-sample_submission.csv.zip
 ## Solution Statement
 A deep learning algorithm will be developed using Tensorflow/Keras and
 will be trained with training data. Specifically a CNN will be implemented
