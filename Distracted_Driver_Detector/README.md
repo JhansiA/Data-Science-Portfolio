@@ -35,10 +35,13 @@ obtained :
 - sample_submission.csv - a sample submission file in the correct format
 - driver_imgs_list.csv - a list of training images, their subject (driver) id,
 and class id
+
 https://www.kaggle.com/c/state-farm-distracted-driver-detection/download/
 driver_imgs_list.csv.zip
+
 https://www.kaggle.com/c/state-farm-distracted-driver-detection/download/
-imgs.zip                                      
+imgs.zip     
+
 https://www.kaggle.com/c/state-farm-distracted-driver-detection/download/
 sample_submission.csv.zip
 ## Solution Statement
